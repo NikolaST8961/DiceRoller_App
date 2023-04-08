@@ -33,4 +33,5 @@ class MainActivity : AppCompatActivity() {
         }
         diceImage.setImageResource(drawableResourse)
     }
+    private fun justFunToCheckSomething(){}
 }
